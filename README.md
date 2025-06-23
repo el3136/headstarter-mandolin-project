@@ -1,5 +1,9 @@
 ### Task: Automate the Prior Authorization (PA) Form Filling Workflow
 
+# Notable exmaple files:
+- **Automate_Insurance_Claims_Week2_Abdulla_example1.mkv**
+- **Week2_Automate_Insurance_Claims.ipynb**
+
 # PAFill - Medical Form Automation
 
 🏥 **Automate Prior Authorization Forms with AI-Powered Medical Information Extraction**
